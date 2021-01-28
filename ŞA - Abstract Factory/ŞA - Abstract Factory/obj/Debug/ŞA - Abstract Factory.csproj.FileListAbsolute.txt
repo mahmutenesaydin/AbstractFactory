@@ -1,0 +1,6 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - Abstract Factory\ŞA - Abstract Factory\bin\Debug\ŞA - Abstract Factory.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - Abstract Factory\ŞA - Abstract Factory\bin\Debug\ŞA - Abstract Factory.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - Abstract Factory\ŞA - Abstract Factory\bin\Debug\ŞA - Abstract Factory.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - Abstract Factory\ŞA - Abstract Factory\obj\Debug\ŞA - Abstract Factory.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - Abstract Factory\ŞA - Abstract Factory\obj\Debug\ŞA - Abstract Factory.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - Abstract Factory\ŞA - Abstract Factory\obj\Debug\ŞA - Abstract Factory.pdb
